@@ -1,0 +1,6 @@
+﻿  project 2.cpp
+D:\uni\2e annee\s3\data structures\project 2\project 2\project 2.cpp(132,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\uni\2e annee\s3\data structures\project 2\project 2\project 2.cpp(617,17): warning C4101: 'prev': unreferenced local variable
+D:\uni\2e annee\s3\data structures\project 2\project 2\project 2.cpp(1177,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\uni\2e annee\s3\data structures\project 2\project 2\project 2.cpp(109): warning C4715: 'newstudent': not all control paths return a value
+  project 2.vcxproj -> D:\uni\2e annee\s3\data structures\project 2\x64\Debug\project 2.exe

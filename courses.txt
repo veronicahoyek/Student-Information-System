@@ -1,0 +1,4 @@
+2001	30	routing and switching essentials	Joseph Fares	5	11:30	2:15
+2014	30	web design	Georges Abou ElOyoun	4	11:30	2:15
+2023	30	data structures	Georges Badr	2	11:30	2:15
+2003	30	calculus III	Ihab Allam	4	8:30	11:15
